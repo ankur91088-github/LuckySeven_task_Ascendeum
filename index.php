@@ -108,5 +108,5 @@ $balance = updateBalance($bet,$sum,$balance);
 echo "<br>your Current Balance = ".$balance;
 
 }
-?>noelin@ascendeum.com
+?>
  
